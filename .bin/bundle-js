@@ -1,0 +1,1 @@
+browserify assets/js/src/canvas/canvas.js > assets/js/dist/canvas.js
